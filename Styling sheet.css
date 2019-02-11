@@ -1,0 +1,45 @@
+
+h1{
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkslateblue;
+    text-align: center;
+    text-shadow: black;
+    background-color: khaki;
+    text-decoration: maroon;
+}
+a{
+    text-decoration: black;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: azure;
+    color: maroon;
+    display: inline-block;
+    padding: 15px;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+a:hover{
+    background-color: darkslategray;
+    color: maroon;
+}
+
+a:active{
+    background-color: black;
+    color: maroon;
+}
+button{
+    background-color: khaki;
+    color: firebrick;
+}
+.punny{
+    background-color: darkslategray;
+    color: black;
+    font-size:20px;
+    font-family: Chilanka;
+}
+div{
+    background-color: khaki;
+    color: navy;
+    text-align: left;
+}
